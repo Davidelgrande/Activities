@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MainProyect</string>
+    <string name="btnIniciar">Iniciar</string>
+    <string name="string_btniniciar" />
+    <string name="string_string_btniniciar">btn</string>
+    <string name="string_string_string_btniniciar">Iniciar</string>
+    <string name="mainText">mainText</string>
+    <string name="TxtView">Estado Bloqueado</string>
+
+</resources>
